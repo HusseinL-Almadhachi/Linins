@@ -9,6 +9,6 @@ if you wanted to make an open source project one of the biggest challenges that 
 * You can specify a line of shell script to run only the user is using a certain Linux distribution or a certain operating system
 * You can specify a line of shell script to run when a certain hardware device exist (e.g GPU , network adaptors)
 * You can specify a line of shell script to run when a certain software path exist (e.g GCC , Python , Nim , R )
-* You can clone other repositories that can be installed independently and more
+* You can clone any other additionl repositories
 * You can clone repositories that support Linins Installation file's format "InstallFile" and install additional software that specified in those repositories installtion files without worrying about how to install them when you writing your installtion files
 
